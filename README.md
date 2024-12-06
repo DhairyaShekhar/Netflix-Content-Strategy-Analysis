@@ -1,6 +1,9 @@
 # 📊 Netflix Content Strategy Analysis
 **Welcome to the Netflix Content Strategy Analysis project!**
 
+
+![image](https://github.com/user-attachments/assets/35e75517-bbdd-4172-9c86-03eb0cd1da73)
+
 # 📝 Project Overview
 With the growing competition in the OTT (Over-the-Top) industry, analyzing Netflix's vast content library provides valuable insights into what drives viewer engagement and success. This project aims to explore Netflix's content trends, evaluate audience preferences, and provide actionable insights for strategic decision-making.
 
@@ -38,3 +41,5 @@ Sentiment Analysis: Incorporate viewer reviews to understand preferences better.
 
 Competitive Analysis: Compare Netflix's strategies with competitors like Amazon Prime and Disney+.
 
+
+***Note: Image used is AI Generated for representation purposes only***
